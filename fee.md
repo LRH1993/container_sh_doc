@@ -29,7 +29,7 @@
     <img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/fee_3.png" width="100%"/>
 </center>
 
-- 需要设置的费用信息分为三块，分别是长度、短驳、堆场费用。
+- 需要设置的费用信息分为三块，分别是长途、短驳、堆场费用。
 - 若要按油耗将燃油承包给自有车辆，则还需要设置油价信息。
 
 #### 长途费用
