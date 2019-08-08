@@ -6,10 +6,12 @@
 ![](https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/intro_home.jpg)
 - 该系统旨在提高车队的人员工作效率，提升中间环节的准确性和高效性，提高车队的服务质量。同时，系统在调度过程中**智能匹配并记录费用信息**，保证费用环节的正确性，可实时查看当前收支信息和司机业务信息。
 - 该系统具有**司机端小程序**，可实时查看订单信息，并及时填写封号、皮重等运输信息，整合多方信息，进一步提高运输效率。
-
+- 该系统具有**整洁清晰的财务模块**，可以帮助车队管理人迅速**理清车队运营状况**；并且支持**多种excel报表导出，方便每月财务核对**。
 <center class="half">
     <img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/intro_app.jpg" width="200"/><img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/intro_app_1.jpg" width="200"/>
 </center>
+
+`集顺通的使用既可以提高车队的工作效率，节省人力，同时又可以规范流程，规避错误，减少成本。以月做箱量为1000个的车队为例，集顺通的使用可以节约1-2个人力，并且通过合理规避错误可以每年节省至少2万元成本支出。`
 
 ## 功能
 
