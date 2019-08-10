@@ -60,7 +60,7 @@
 -  **客户账号**
 
 <center class="half">
-    <img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/orderQuery_2.jpg" width="100%"/>
+    <img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/orderQuery_2.jpg" width="300"/>
 </center>
 
 支持开设客户账号，让客户可实时查看运单信息与状态。
@@ -98,7 +98,7 @@
 - **车辆定位**
 
 <center class="half">
-    <img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/location.jpg" width="100%"/>
+    <img src="https://container-system.oss-cn-shanghai.aliyuncs.com/container/doc/location.jpg" width="300"/>
 </center>
 
 根据提单号/箱号/车牌号，可以查询到车辆**当前位置、速度信息**。
